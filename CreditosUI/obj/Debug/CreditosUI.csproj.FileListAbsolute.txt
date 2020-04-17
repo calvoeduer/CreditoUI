@@ -1,0 +1,13 @@
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\CreditosUI.exe.config
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\CreditosUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\CreditosUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\BLL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\BLL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\obj\Debug\CreditosUI.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\obj\Debug\CreditosUI.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\obj\Debug\CreditosUI.exe
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\obj\Debug\CreditosUI.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\CreditosUI\bin\Debug\DAL.pdb

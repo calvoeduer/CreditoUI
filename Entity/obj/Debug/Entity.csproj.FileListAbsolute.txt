@@ -1,0 +1,5 @@
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\Entity\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\Entity\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\Entity\obj\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\Entity\obj\Debug\Entity.pdb

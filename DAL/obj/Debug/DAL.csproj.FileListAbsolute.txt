@@ -1,0 +1,8 @@
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\bin\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\bin\Debug\DAL.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\bin\Debug\Entity.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\bin\Debug\Entity.pdb
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\obj\Debug\DAL.csproj.CopyComplete
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\obj\Debug\DAL.dll
+U:\UNIVERSIDAD\Cuarto semestre\Programacion 3\AYUDA A LOS PELAOS\CreditosUI\DAL\obj\Debug\DAL.pdb
